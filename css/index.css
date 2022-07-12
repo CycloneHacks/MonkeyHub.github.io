@@ -14,7 +14,7 @@
 
 .topnav {
 	overflow: hidden;
-	background-color: red;
+	background-color: skyblue;
 	font-family: Arial;
 }
 
@@ -29,13 +29,13 @@
 }
 
 .topnav a:hover {
-	background-color: black;
-	color: red;
+	background-color: white;
+	color: black;
 }
 
 .topnav a.active {
-	background-color: black;
-	color: red;
+	background-color: white;
+	color: white;
 }
 
 .topnav input[type=text] {
